@@ -1,3 +1,3 @@
 # React-projects
 
-Consiting all the personal react projects made so far
+Consisting of some react projects built so far
